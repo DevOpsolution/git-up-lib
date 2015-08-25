@@ -1,1 +1,3 @@
 #### GitUp
+
+* git checkout master
